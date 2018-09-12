@@ -4,7 +4,7 @@
   "description": "Client Portal",
   "main": "index.js",
   "scripts": {
-    "start": "node app"
+    "start": "node server"
   },
   "license": "ISC",
   "dependencies": {
