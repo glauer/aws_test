@@ -4,13 +4,15 @@
   "description": "Client Portal",
   "main": "index.js",
   "scripts": {
-    "start": "node server"
+    "start": "node server",
+	"test": "mocha"
   },
   "license": "ISC",
   "dependencies": {
     "base-64": "^0.1.0",
     "cookie-parser": "^1.4.3",
     "express": "^4.16.3",
+    "mocha": "^5.2.0",
     "morgan": "^1.9.0",
     "node-rest-client": "^3.1.0"
   }
