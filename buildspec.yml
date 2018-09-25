@@ -4,7 +4,7 @@ phases:
   install:
     commands:
       - echo Installing... Running npm install
-      - npm install
+      - npm install mocha
   pre_build:
     commands:
       - echo Pre-build...
