@@ -19,7 +19,7 @@
         ],
         "semi": [
             "warn",
-            "always"
+            "error"
         ]
     }
 }
