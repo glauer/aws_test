@@ -18,8 +18,8 @@
             "single"
         ],
         "semi": [
-            "warn",
-            "error"
+            "error",
+            "always"
         ]
     }
 }
