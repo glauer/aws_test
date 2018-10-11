@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-app.get('/', (req, res) => res.send('RBCWM Client Portal<br>Build date: 2018-09-29'));
+app.get('/', (req, res) => res.send('RBCWM Client Portal<br>Build date: 2018-10-10'));
 
 app.listen(process.env.PORT || 3000, function() {
   // eslint-disable-next-line no-console
